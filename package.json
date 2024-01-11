@@ -1,0 +1,9 @@
+{
+  "name": "fullstack",
+  "version": "0.1.0",
+  "description": "JavaScript fullstack home task",
+  "scripts": {},
+  "author": "Dmitry Maksimetny <maksimetny@gmail.com>",
+  "private": true,
+  "license": "UNLICENSED"
+}
